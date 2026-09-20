@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152326604996",
+    "project_id": "super-tg-attendance-dashboard",
+    "storage_bucket": "super-tg-attendance-dashboard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152326604996:android:9f2e883d8c4d0be15ea191",
+        "android_client_info": {
+          "package_name": "com.example.supertg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVa1D5Abu3IVx9-cU5jGSkCzqJydM2uog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

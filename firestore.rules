@@ -1,0 +1,11 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Phase 2 deliberately has no Authentication. Keep production access closed
+    // until a trusted identity/authentication mechanism is implemented.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

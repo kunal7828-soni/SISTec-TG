@@ -1,0 +1,8 @@
+{
+  "name": "Super TG Attendance Dashboard",
+  "short_name": "Super TG",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F7FB",
+  "description": "Super TG Attendance Dashboard"
+}
